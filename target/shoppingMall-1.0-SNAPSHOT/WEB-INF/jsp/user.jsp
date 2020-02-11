@@ -5,6 +5,8 @@
   Time: 15:51
   To change this template use File | Settings | File Templates.
 --%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -19,14 +21,8 @@
         <td>编辑</td>
         <td>删除</td>
     </tr>
-    <c:forEach items="${cs}" var="c" varStatus="user">
-        <tr>
-            <td>${cs.user_ID}</td>
-            <td>${cs.user_name}</td>
-            <td><a href="editStudent?id=${c.user_ID}">编辑</a></td>
-            <td><a href="deleteStudent?id=${c.user_ID}">删除</a></td>
-        </tr>
-    </c:forEach>
+    ${user.toString()}
+
 </table>
 
 

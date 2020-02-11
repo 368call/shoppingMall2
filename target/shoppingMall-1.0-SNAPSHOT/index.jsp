@@ -22,12 +22,12 @@
         <td>编辑</td>
         <td>删除</td>
     </tr>
-    <c:forEach items="${user}" var="c" varStatus="user2">
+    <c:forEach items="${goods}" var="c" varStatus="user2">
         <tr>
-            <td>${c.user_ID}</td>
-            <td>${c.user_name}</td>
-            <td><a href="editStudent?id=${c.user_ID}">编辑</a></td>
-            <td><a href="deleteStudent?id=${c.user_ID}">删除</a></td>
+            <td>${c.goods_id}</td>
+            <td>${c.goods_name}</td>
+            <td><a href="editStudent?id=${c.goods_id}">编辑</a></td>
+            <td><a href="deleteStudent?id=${c.good_id}">删除</a></td>
         </tr>
     </c:forEach>
 </table>
@@ -41,13 +41,12 @@
     <a href="?start=${page.end}">末页</a>
 </div>
 
-//增加
-<div style="text-align:center;margin-top:40px">
+<h1>测试搜索功能</h1>
 
-    <form method="post" action="addStudent">
-        分类名称： <input name="name" value="" type="text"> <br><br>
-        <input type="submit" value="增加分类">
-    </form>
-</div>
+<form action="search" method="post">
+    模糊搜索框：<input type="text" name="key" >
+                <input type="submit" value="点击搜索">
+</form>
+
 </body>
 </html>

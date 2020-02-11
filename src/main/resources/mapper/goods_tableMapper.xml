@@ -15,6 +15,10 @@
   <select id="selectgoods" resultType="goods_table" >
     select * from goods_table
   </select>
+
+  <select id="searchgoods" parameterType="java.lang.String" resultType="goods_table">
+    select * from goods_table where goods_name LIKE concat('%',#{key},'%');
+  </select>
   
  
 </mapper>
