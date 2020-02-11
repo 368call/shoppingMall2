@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shoppingMall:war" />
+      <artifact name="shoppingMall:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79599611-16b2-46e8-8ec8-19c8afd76b34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/shoppingMall_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/shoppingMall_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f367a5b7-daba-43cd-b0c5-d0d2be3af0ad.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_rc_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/java/com/xzy/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/AddressMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/bigpicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/collectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/evaluateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/goods_detailsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/goods_tableMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/order_userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/ordersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/recommendMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/s_gMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/sellerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/shop_userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/shopcarMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/dao/u_s_collectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/AddressExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/bigpic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/bigpicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/collectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/evaluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/evaluateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/goods_details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/goods_detailsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/goods_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/goods_tableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/order_user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/order_userExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/ordersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/recommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/recommendExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/s_g.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/s_gExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/sellerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/shop_user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/shop_userExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/shopcar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/shopcarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/u_s_collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/model/u_s_collectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/services/goods_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzy/services/impl/GoodsServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/bigpicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/evaluateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/goods_detailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/goods_tableMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/order_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ordersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/recommendMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/s_gMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/sellerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/shop_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/shopcarMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/u_s_collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/showListview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserDaoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/bigpicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/evaluateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/goods_detailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/goods_tableMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/order_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ordersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/recommendMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/s_gMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/sellerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/shop_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/shopcarMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/u_s_collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/User.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/Copy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/META-INF/shoppingMall.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/AddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/bigpicMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/collectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/evaluateMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/goods_detailsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/goods_tableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/order_userMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/ordersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/recommendMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/s_gMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/sellerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/shop_userMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/shopcarMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/dao/u_s_collectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/AddressExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/AddressExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/AddressExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/AddressExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/bigpic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/bigpicExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/bigpicExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/bigpicExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/bigpicExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/collect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/collectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/collectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/collectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/collectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/evaluate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/evaluateExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/evaluateExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/evaluateExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/evaluateExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_details.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_detailsExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_detailsExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_detailsExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_detailsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_tableExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_tableExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_tableExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/goods_tableExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/order_user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/order_userExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/order_userExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/order_userExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/order_userExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/ordersExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/ordersExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/ordersExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/ordersExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/recommend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/recommendExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/recommendExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/recommendExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/recommendExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/s_g.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/s_gExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/s_gExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/s_gExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/s_gExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/seller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/sellerExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/sellerExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/sellerExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/sellerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shop_user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shop_userExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shop_userExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shop_userExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shop_userExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shopcar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shopcarExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shopcarExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shopcarExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/shopcarExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/u_s_collect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/u_s_collectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/u_s_collectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/u_s_collectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/model/u_s_collectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/services/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/services/goods_Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/services/impl/GoodsServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/com/xzy/services/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserDaoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/bigpicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/evaluateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/goods_detailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/goods_tableMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/order_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/ordersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/recommendMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/s_gMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/sellerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/shop_userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/shopcarMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/mapper/u_s_collectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/jsp/Test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/jsp/showListview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/jsp/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/ant-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/ant-launcher-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/junit-4.13-rc-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.35.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shoppingMall-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/shoppingMall.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xzy/service/GoodsServiceImpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xzy/service/UserService.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="goods_table: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1590">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/showListview.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5850">
+              <caret line="195" column="34" selection-start-line="195" selection-start-column="34" selection-end-line="195" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/java/com/xzy/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Test.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="laobao1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="beeaa145-420b-49d5-8969-446ac0672efd" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/controller/testcontroller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/dao/daotest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/services/impl/as.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/model/Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/services/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/testmysql.java" />
+        <option value="$PROJECT_DIR$/src/Test/java/com/xzy/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/dao/shop_userMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Copy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/dao/goods_tableMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/services/goods_Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/services/impl/GoodsServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/Test/java/com/xzy/service/GoodsServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/Test/java/com/xzy/service/GoodsServiceImpTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/goods_tableMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/model/goods_table.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Test.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Test.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Test.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Test.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/services/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/showListview.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xzy/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shoppingMall Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/shoppingMall_war.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/shoppingMall_war_exploded.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_rc_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="186" />
+    <option name="width" value="1660" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shoppingMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingMall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="shoppingMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../刘生才下载/shoppingMall" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.22067595" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\shoppingMall\src\main\webapp" />
+      <recent name="F:\shoppingMall\src\main\webapp\WEB-INF\jsp" />
+      <recent name="F:\shoppingMall\src\main\webapp\WEB-INF" />
+      <recent name="F:\shoppingMall\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\shoppingMall\src\main" />
+      <recent name="F:\shoppingMall\src\main\java" />
+      <recent name="F:\shoppingMall\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xzy.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xzy.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.311">
+    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Copy" />
+      <module name="shoppingMall" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingMall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xzy.service" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.service.GoodsServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServiceImpTest.selectgoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingMall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xzy.service" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.service.GoodsServiceImpTest" />
+      <option name="METHOD_NAME" value="selectgoods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServiceImp.selectgoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingMall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xzy.service" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.service.GoodsServiceImp" />
+      <option name="METHOD_NAME" value="selectgoods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingMall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xzy.service" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.service.UserService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.311" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.311" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shoppingMall:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shoppingMall_war" />
+          </settings>
+        </artifact>
+        <artifact name="shoppingMall:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shoppingMall_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shoppingMall_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52720" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shoppingMall:war" />
+          <artifact name="shoppingMall:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Copy" />
+      <item itemvalue="JUnit.UserService" />
+      <item itemvalue="JUnit.GoodsServiceImp.selectgoods" />
+      <item itemvalue="JUnit.GoodsServiceImpTest" />
+      <item itemvalue="JUnit.GoodsServiceImpTest.selectgoods" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.311" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GoodsServiceImpTest.selectgoods" />
+        <item itemvalue="JUnit.GoodsServiceImpTest" />
+        <item itemvalue="JUnit.GoodsServiceImp.selectgoods" />
+        <item itemvalue="JUnit.UserService" />
+        <item itemvalue="Application.Copy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79599611-16b2-46e8-8ec8-19c8afd76b34" name="Default Changelist" comment="" />
+      <created>1580983351100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580983351100</updated>
+      <workItem from="1580983355125" duration="732000" />
+      <workItem from="1580985523353" duration="30964000" />
+      <workItem from="1581170653460" duration="1139000" />
+      <workItem from="1581213637202" duration="34115000" />
+      <workItem from="1581384975346" duration="1806000" />
+    </task>
+    <task id="LOCAL-00001" summary="sql语句测试类完成">
+      <created>1581087273462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581087273462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="向jsp输出数据库数据">
+      <created>1581385779193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581385779193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 11h 56m 08s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 11h 56m 31s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 11h 57m 01s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 11h 59m 00s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 12h 00m 05s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest_selectgoods - 2020.02.09 at 14h 36m 21s.xml">
+      <configuration name="GoodsServiceImpTest.selectgoods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 14h 37m 02s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 14h 40m 47s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserService - 2020.02.09 at 14h 42m 07s.xml">
+      <configuration name="UserService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImpTest - 2020.02.09 at 14h 47m 20s.xml">
+      <configuration name="GoodsServiceImpTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68756000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.7733711" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18838526" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="15" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.8726004" visible="true" weight="0.16957104" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.12739965" side_tool="true" visible="true" weight="0.17024128" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24586289" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21776505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.08904649" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="laobao1" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sql语句测试类完成" />
+    <MESSAGE value="向jsp输出数据库数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="向jsp输出数据库数据" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shoppingMall$Tomcat_8_5_311.ic" NAME="Tomcat 8.5.311 Coverage Results" MODIFIED="1581309286463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/u_s_collectMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5018" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/testmysql.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/s_gMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/local/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35-sources.jar!/com/mysql/jdbc/SQLError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="997" column="28" selection-start-line="997" selection-start-column="28" selection-end-line="997" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/dao/AddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/dao/order_userMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/dao/shop_userMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/shop_userExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/shop_user.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Copy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/package-info.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/goods_service.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/goods_Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f367a5b7-daba-43cd-b0c5-d0d2be3af0ad/schema/shop/table/goods_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/goods_detailsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/goods_details.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/order_user.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/goods_tableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ApplicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/dao/goods_tableMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/evaluateExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/goods_tableMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/goods_table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1370#1371#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/impl/GoodsServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Test.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/Test/java/com/xzy/service/GoodsServiceImpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/User.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/local/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/local/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8100">
+          <caret line="289" column="14" selection-start-line="289" selection-start-column="14" selection-end-line="289" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f367a5b7-daba-43cd-b0c5-d0d2be3af0ad/schema/shop/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+            <element signature="e#1774#1775#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+            <element signature="e#1860#1861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/local/org/springframework/spring-webmvc/4.0.2.RELEASE/spring-webmvc-4.0.2.RELEASE-sources.jar!/org/springframework/web/servlet/ModelAndView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="249" column="20" lean-forward="true" selection-start-line="249" selection-start-column="20" selection-end-line="249" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_kn17ji14he9r22/FileStorage/File/2020-02/FileUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5850">
+          <caret line="195" column="34" selection-start-line="195" selection-start-column="34" selection-end-line="195" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/java/com/xzy/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xzy/services/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/showListview.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shoppingMall</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
