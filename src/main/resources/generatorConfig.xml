@@ -42,19 +42,8 @@
         </javaClientGenerator>
 
         <!-- 要生成的表 tableName对应数据库中的表名、domainObjectName对应实体类名 后面根据需要可继续添加 -->
-        <table tableName="uesr" domainObjectName="User"></table>
-      <table tableName="address" domainObjectName="Address"></table>
-        <table tableName="evaluate" domainObjectName="evaluate"></table>
-        <table tableName="collect" domainObjectName="collect"></table>
-        <table tableName="goods_details" domainObjectName="goods_details"></table>
-        <table tableName="order_user" domainObjectName="order_user"></table>
-        <table tableName="orders" domainObjectName="orders"></table>
-        <table tableName="recommend" domainObjectName="recommend"></table>
-        <table tableName="s_g" domainObjectName="s_g"></table>
-        <table tableName="seller" domainObjectName="seller"></table>
-        <table tableName="shop_user" domainObjectName="shop_user"></table>
-        <table tableName="shopcar" domainObjectName="shopcar"></table>
-        <table tableName="u_s_collect" domainObjectName="u_s_collect"></table>
+       <table tableName="goods_table" domainObjectName="goods_table"></table>
+        <table tableName="bigpic" domainObjectName="bigpic"></table>
 
 
 

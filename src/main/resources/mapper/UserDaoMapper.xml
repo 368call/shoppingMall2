@@ -7,7 +7,7 @@
         select * from user
     </select>
     <select id="selectUser" resultType="User" parameterType="long">
-        SELECT * FROM user WHERE id = #{id}
+        SELECT * FROM user WHERE user_ID= #{id}
     </select>
     <select id="get" parameterType="User" resultType="User">
 		select * from student where id=#{user_ID}

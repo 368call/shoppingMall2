@@ -38,10 +38,7 @@ public class UserServiceImpl implements IUserService {
     @Override
     public List<User> showall() {
         List<User> users = userDao.getall();
-        for (User u:users) {
-            System.out.println("id"+u.getUser_ID()+"name"+u.getUser_name()+"pwd"+u.getUser_pwd());
-            System.out.print(u.toString());
-        }
+
         return users;
     }
 

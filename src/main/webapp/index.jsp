@@ -8,6 +8,12 @@
     <title>Insert title here</title>
 </head>
 <body>
+<h1>测试</h1>
+    <a href="user/index?name=laobiao">测试页面跳转</a>
+    <br>
+<a href="user/select" >显示</a>
+<br>
+<a href="user/showList">ListoutTest</a>
 //查询显示
 <table align="center" border="1" cellspacing="0">
     <tr>
@@ -16,7 +22,7 @@
         <td>编辑</td>
         <td>删除</td>
     </tr>
-    <c:forEach items="${cs}" var="c" varStatus="user1">
+    <c:forEach items="${user}" var="c" varStatus="user2">
         <tr>
             <td>${c.user_ID}</td>
             <td>${c.user_name}</td>
