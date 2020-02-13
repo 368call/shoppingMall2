@@ -15,6 +15,16 @@
   <select id="selectgoods" resultType="goods_table" >
     select * from goods_table
   </select>
+
+  <select id="searchgoods" parameterType="java.lang.String" resultType="goods_table">
+    select * from goods_table where goods_name LIKE concat('%',#{key},'%');
+  </select>
+
+  <select id="searchgoodshop" resultType="good_seller" parameterType="long">
+    select  * from s_g sh,goods_table g,seller s where g.goods_id=#{id}
+    and sh.goods_id=g.goods_id
+     and s.seller_id=sh.seller_id;
+  </select>
   
  
 </mapper>

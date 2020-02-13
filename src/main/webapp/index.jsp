@@ -15,7 +15,7 @@
 <br>
 <a href="user/showList">ListoutTest</a>
 //查询显示
-<table align="center" border="1" cellspacing="0">
+<table align="center" border="1" cellspacing="0" >
     <tr>
         <td>id</td>
         <td>name</td>
@@ -31,10 +31,14 @@
         </tr>
     </c:forEach>
 </table>
+<div>
+    <h1>共和国发</h1>
+    <img src="http://q5kookjmb.bkt.clouddn.com/FlYJ_1H6zjBXIpy0GPj46vKpdBfC" >
+</div>
 
 
 <%--分页显示--%>
-<div style="text-align:center">
+<div style="text-align:center" >
     <a href="?start=0">首页</a>
     <a href="?start=${page.start-page.count<0?0:page.start-page.count}">上一页</a>
     <a href="?start=${page.start+page.count>page.end?page.end:page.start+page.count }">下一页</a>
