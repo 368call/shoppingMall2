@@ -27,16 +27,7 @@ public class UserController {
         mv.setViewName("user");
         return mv;
     }
-   //修改,先通过get方法得到一个对象
-   @RequestMapping("editStudent")
-   public ModelAndView editStudent(User user) {
-       User  user1= userService.get(user.getUser_ID());
-       List<User> user2=userService.showall();
-       System.out.println(user2.get(1).toString());
-       ModelAndView mav = new ModelAndView("editStudent");
-       mav.addObject("c",user2);
-       return mav;
-   }
+
    @RequestMapping("/add")
     public String adduser(int id,String name)
    {
@@ -67,4 +58,6 @@ public class UserController {
        mav.addObject("userlist",userlist);
        return mav;
    }
+
+
 }
